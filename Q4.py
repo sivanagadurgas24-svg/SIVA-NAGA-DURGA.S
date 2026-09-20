@@ -1,0 +1,16 @@
+print("Q1")
+age=21
+print(age)
+print("Q2")
+height=5.8
+print(height)
+print("Q3")
+name="arun"
+print(name)
+print("Q4")
+age=20
+print(age)
+price=99.5
+print(price)
+name="ravi"
+print(name)
